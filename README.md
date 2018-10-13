@@ -14,7 +14,7 @@ Things I want to use for practice:
 - gRPC
 - Microservices
 - Docker
-  - Scratch image[1][2]
+  - Scratch image[1][docker scratch blog][2][docker scratch docs]
 - Kubernetes
 
 Things that will get used along the way:
@@ -23,5 +23,5 @@ Things that will get used along the way:
 - Git
 
 
-1: https://medium.com/@kelseyhightower/optimizing-docker-images-for-static-binaries-b5696e26eb07
-2: https://docs.docker.com/develop/develop-images/baseimages/
+[docker scratch blog]: https://medium.com/@kelseyhightower/optimizing-docker-images-for-static-binaries-b5696e26eb07
+[docker scratch docs]: https://docs.docker.com/develop/develop-images/baseimages/
