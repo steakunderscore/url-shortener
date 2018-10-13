@@ -16,6 +16,7 @@ Things I want to use for practice:
 - Docker
   - Scratch image[1][docker scratch blog][2][docker scratch docs]
 - Kubernetes
+- Gitlab ( with sync to Github )
 
 Things that will get used along the way:
 
